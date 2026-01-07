@@ -46,9 +46,13 @@ Google Fonts (Inter)
 # Project Structure
 
 text
+
 bus-tracker/
+
 ├── index.html
+
 ├── ai.html
+
 └── README.md
 
 # Getting Started
@@ -92,7 +96,9 @@ Dark theme with glassmorphism UI
 Deploy to Firebase Hosting:
 
 bash
+
 firebase login
+
 firebase deploy
 
 # Live Demo
